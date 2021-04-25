@@ -6,6 +6,7 @@
 body {
     background-color: #D9DCD6;
 }
+/* This is the Horiseon top part of the page. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -36,6 +37,7 @@ a {
 p {
     font-size: 16px;
 }
+/* This is the picture bellow the header. */
 .hero {
     height: 800px;
     width: 100%;
@@ -48,6 +50,7 @@ p {
     float: left;
     margin-right: 25px;
 }
+/* This is the article sections */
 .content {
     width: 75%;
     display: inline-block;
@@ -87,7 +90,7 @@ p {
 .content-section img {
     max-height: 200px;
 }
-
+/* This is the footer of the page. */
 .footer {
     padding: 30px;
     clear: both;
